@@ -1,2 +1,4 @@
 edad = 30
-print(edad)
+edad2 = 30
+print(edad + edad2)
+
