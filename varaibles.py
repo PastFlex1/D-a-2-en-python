@@ -1,5 +1,2 @@
-nombre = "juan"
-print(nombre)
-
-nombre = "Laura"
-print(nombre)
+edad = 30
+print(edad)
