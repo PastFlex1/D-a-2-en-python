@@ -14,3 +14,5 @@ print(f'La raíz cuadrada de {x} es igual {x**0.5}')
 
 
 print(f'{874 // 27}')
+print(f'{456 % 33}')
+print(f'{783 ** 0.5} ')
