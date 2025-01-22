@@ -1,5 +1,2 @@
-nombre = "juan"
-print(nombre)
-
-nombre = "Laura"
-print(nombre)
+nombre = input("Dime tu nombre: ")
+print("Tu nombre es:", nombre)
